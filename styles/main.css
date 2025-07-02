@@ -401,9 +401,9 @@ main {
     display: none;
   }
 
-  .headline-headers {
-    font-size: 1.07rem;
-    font-weight: 500;
+  .popular-category-text {
+    font-size: 1.75rem;
+    font-weight: 700;
   }
 }
 
