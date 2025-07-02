@@ -317,6 +317,7 @@ main {
     display: flex;
     gap: 1.8750rem;
   }
+
 }
 
 @media (max-width: 47.7500rem) {
@@ -324,6 +325,7 @@ main {
     display: flex;
     gap: 0.6250rem;
   }
+
 }
 
 @media (max-width: 46.0625rem) {
@@ -375,6 +377,8 @@ main {
     width: 5.0000rem;
     border-radius: 5.6250rem;
   }
+
+    
 }
 
 @media (max-width: 37.6875rem) {
@@ -401,15 +405,10 @@ main {
     display: none;
   }
 
-  .popular-category-text {
-    font-size: 1.40rem;
-    font-weight: 600;
-    line-height: 0;
-  }
 }
 
 .popular-category-text {
   margin-left: 4.3750rem;
   font-size: 2.3750rem;
-  font-weight: 900;
+  font-weight: 300;
 }
