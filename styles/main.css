@@ -402,8 +402,9 @@ main {
   }
 
   .popular-category-text {
-    font-size: 1.75rem;
-    font-weight: 700;
+    font-size: 1.40rem;
+    font-weight: 600;
+    line-height: 0;
   }
 }
 
