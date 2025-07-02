@@ -173,6 +173,16 @@ main {
   }
 }
 
+@media (max-width:500px) {
+   .brand-logos {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+  }
+  .brand-img {
+    width: 170px;
+  }
+}
+
 
 
 
